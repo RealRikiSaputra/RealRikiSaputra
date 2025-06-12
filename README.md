@@ -33,8 +33,8 @@ Here are some of my featured projects:
 
 - 🌐 Website: [Coming Soon!]
 - 📧 Email: rikisaputra@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/riki-saputra](https://www.linkedin.com/in/riki-saputra)
-- 📷 Instagram: [@rikispt_](https://www.instagram.com/__realkyy/)
+- 💼 LinkedIn: [linkedin.com/in/real-riki-saputra](https://www.linkedin.com/in/real-riki-saputra/)
+- 📷 Instagram: [@__realkyy](https://www.instagram.com/__realkyy/)
 
 ---
 
