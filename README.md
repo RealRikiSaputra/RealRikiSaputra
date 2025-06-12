@@ -32,9 +32,9 @@ Here are some of my featured projects:
 ## 📫 Let's Connect
 
 - 🌐 Website: [Coming Soon!]
-- 📧 Email: rikisaputra.dev@gmail.com
+- 📧 Email: rikisaputra@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/riki-saputra](https://www.linkedin.com/in/riki-saputra)
-- 📷 Instagram: [@rikispt_](https://instagram.com/rikispt_)
+- 📷 Instagram: [@rikispt_](https://www.instagram.com/__realkyy/)
 
 ---
 
