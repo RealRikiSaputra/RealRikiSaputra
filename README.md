@@ -39,9 +39,9 @@ Here are some of my featured projects:
 ---
 
 ## 📊 GitHub Stats
-![RealRikiSaputra's Stats](https://github-readme-stats.vercel.app/api?username=RealRikiSaputra&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Riki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RikiSaputra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikiSaputra&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealRikiSaputra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RealRikiSaputra&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=RealRikiSaputra&theme=tokyonight&hide_border=true)
 
 ---
 
